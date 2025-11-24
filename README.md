@@ -18,9 +18,9 @@
  <div id="header" align="left">
 
 ### 👨‍💻: Sobre mí :
-Apasionado por la tecnología y entusiasmado con el aprendizaje continuo en el campo del Data Analytics. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Apasionado por la tecnología y entusiasmado con el aprendizaje continuo en el campo de la ingeniería de datos. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* 👨‍🎓: Soy estudiante de Ingeniería de Software en la Universidad Nacional Mayor de San Marcos y actualmente me encuentro en el octavo ciclo de la carrera. 📚:
+* 👨‍🎓: Soy egresado de Ingeniería de Software en la Universidad Nacional Mayor de San Marcos y actualmente me encuentro trabajando en el Banco de la Nación. 📚:
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
@@ -47,6 +47,6 @@ Apasionado por la tecnología y entusiasmado con el aprendizaje continuo en el c
 
 ### 🔥: Mis estadísticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gibrantarrillo&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gibyts&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibrantarrillo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
