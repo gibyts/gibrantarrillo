@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/gibrantarrillo/gibrantarrillo/blob/main/banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/gibyts/gibyts/blob/main/banner.png" width="800"/>
 </div>
 
 <div id="badges" align="center">
